@@ -48,14 +48,6 @@
         padding: 60px;
     }
 
-    .line {
-        position: absolute;
-        height: 3px;
-        width: 100px;
-        background-color: #7b5244;
-        left: 897px;
-        margin: 2px;
-    }
 
 
     /*Header css*/
